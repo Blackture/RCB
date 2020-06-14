@@ -1,0 +1,6 @@
+C:\Users\Administrator\Downloads\RandomCharacteristicsBattle\Erstellung_Rollenspiel_Charakter\bin\Release\Random Characteristics Battle.exe.config
+C:\Users\Administrator\Downloads\RandomCharacteristicsBattle\Erstellung_Rollenspiel_Charakter\bin\Release\Random Characteristics Battle.exe
+C:\Users\Administrator\Downloads\RandomCharacteristicsBattle\Erstellung_Rollenspiel_Charakter\bin\Release\Random Characteristics Battle.pdb
+C:\Users\Administrator\Downloads\RandomCharacteristicsBattle\Erstellung_Rollenspiel_Charakter\obj\Release\Erstellung_Rollenspiel_Charakter.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\RandomCharacteristicsBattle\Erstellung_Rollenspiel_Charakter\obj\Release\Random Characteristics Battle.exe
+C:\Users\Administrator\Downloads\RandomCharacteristicsBattle\Erstellung_Rollenspiel_Charakter\obj\Release\Random Characteristics Battle.pdb
