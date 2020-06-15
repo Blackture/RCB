@@ -1,5 +1,5 @@
 # RCB 
-    (Random Characteristics Battle)
+## (Random Characteristics Battle)
 
 ### Console Options:
 
