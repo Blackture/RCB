@@ -4,4 +4,4 @@
 
 ### Console Options:
 
-![Image doesn't load][Assets/options.png]
+![Image doesn't load][options.png]
