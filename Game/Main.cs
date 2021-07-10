@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Collections;
 
-namespace Erstellung_Rollenspiel_Charakter.Game
+namespace RCB.Game
 {
     class Main
     {

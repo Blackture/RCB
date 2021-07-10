@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{EDA6C0BE-9CA9-4FB3-A1CC-FF6D89FDC28D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RandomCharacteristicsBattle</RootNamespace>
+    <RootNamespace>RCB</RootNamespace>
     <AssemblyName>Random Characteristics Battle</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Erstellung_Rollenspiel_Charakter.Program</StartupObject>
+    <StartupObject>RCB.Program</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>RCB.ico</ApplicationIcon>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Erstellung_Rollenspiel_Charakter.Player
+namespace RCB.Player
 {
     public class Stats
     {

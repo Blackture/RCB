@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace Erstellung_Rollenspiel_Charakter
+namespace RCB
 {
     class Program
     {
@@ -49,8 +49,7 @@ namespace Erstellung_Rollenspiel_Charakter
                             Console.Clear();
                             Game.Start.AbilitySelection(Players[1].Element, 1);
                             Console.Clear();
-                            Player.IPlayerStats Winner = null;
-                            Game.Main.InGame(Players, out Winner);
+                            Game.Main.InGame(Players, out Player.IPlayerStats Winner);
                             Console.Clear();
                             do
                             {

@@ -1,0 +1,6 @@
+C:\Users\patri\Documents\GitHub\RCB\bin\Release\Random Characteristics Battle.exe.config
+C:\Users\patri\Documents\GitHub\RCB\bin\Release\Random Characteristics Battle.exe
+C:\Users\patri\Documents\GitHub\RCB\bin\Release\Random Characteristics Battle.pdb
+C:\Users\patri\Documents\GitHub\RCB\obj\Release\RCB.csproj.CoreCompileInputs.cache
+C:\Users\patri\Documents\GitHub\RCB\obj\Release\Random Characteristics Battle.exe
+C:\Users\patri\Documents\GitHub\RCB\obj\Release\Random Characteristics Battle.pdb

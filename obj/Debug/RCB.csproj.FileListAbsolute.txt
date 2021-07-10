@@ -5,3 +5,10 @@ C:\Users\patri\Desktop\RandomCharacteristicsBattle\RCB\obj\Debug\RCB.csprojAssem
 C:\Users\patri\Desktop\RandomCharacteristicsBattle\RCB\obj\Debug\RCB.csproj.CoreCompileInputs.cache
 C:\Users\patri\Desktop\RandomCharacteristicsBattle\RCB\obj\Debug\Random Characteristics Battle.exe
 C:\Users\patri\Desktop\RandomCharacteristicsBattle\RCB\obj\Debug\Random Characteristics Battle.pdb
+C:\Users\patri\Documents\GitHub\RCB\obj\Debug\RCB.csprojAssemblyReference.cache
+C:\Users\patri\Documents\GitHub\RCB\obj\Debug\RCB.csproj.CoreCompileInputs.cache
+C:\Users\patri\Documents\GitHub\RCB\obj\Debug\Random Characteristics Battle.exe
+C:\Users\patri\Documents\GitHub\RCB\obj\Debug\Random Characteristics Battle.pdb
+C:\Users\patri\Documents\GitHub\RCB\bin\Debug\Random Characteristics Battle.exe.config
+C:\Users\patri\Documents\GitHub\RCB\bin\Debug\Random Characteristics Battle.exe
+C:\Users\patri\Documents\GitHub\RCB\bin\Debug\Random Characteristics Battle.pdb
